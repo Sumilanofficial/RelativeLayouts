@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mainBtn">Button</string>
+    <string name="number">Number</string>
+    <string name="mul">*</string>
+    <string name="divide">/</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="Btn1">Button 1</string>
+    <string name="text1">Text 1</string>
+    <string name="text2">Text 2</string>
+    <string name="text3">Text 3</string>
+    <string name="DCA">DCA</string>
+    <string name="OnTheWay">On the Way</string>
+    <string name="traveller">Traveller</string>
+    <string name="square1">Square 1</string>
+    <string name="square2">Square 2</string>
+</resources>
